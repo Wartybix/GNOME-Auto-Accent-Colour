@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: 34974060+Wartybix@users.noreply.github.com\n"
-"POT-Creation-Date: 2024-12-06 23:51+0000\n"
+"POT-Creation-Date: 2025-02-07 18:36+0000\n"
 "PO-Revision-Date: 2024-12-07 16:01+0100\n"
 "Last-Translator: John Erling Blad <jeblad@gmail.com>\n"
 "Language-Team: \n"
@@ -17,19 +17,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Gtranslator 47.1\n"
 
-#: extension.js:463
+#: extension.js:476
 msgid "Force Refresh"
 msgstr "Tving oppdatering"
 
-#: extension.js:468
+#: extension.js:481
 msgid "Preferences"
 msgstr "Innstillinger"
 
-#: extension.js:492
+#: extension.js:505
 msgid "Background format not supported"
 msgstr "Bakgrunnsformat støttes ikke"
 
-#: extension.js:493
+#: extension.js:506
 msgid "Auto Accent Colour will not run on this background"
 msgstr "Auto Accent Color vil ikke kjøre på denne bakgrunnen"
 

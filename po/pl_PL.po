@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: 34974060+Wartybix@users.noreply.github.com\n"
-"POT-Creation-Date: 2024-12-06 23:51+0000\n"
+"POT-Creation-Date: 2025-02-07 18:36+0000\n"
 "PO-Revision-Date: 2025-02-20 02:32+0000\n"
 "Last-Translator: Adam Lewicki <a.lewicki95@gmail.com>\n"
 "Language-Team: Polish\n"
@@ -17,19 +17,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Gtranslator 47.1\n"
 
-#: extension.js:463
+#: extension.js:476
 msgid "Force Refresh"
 msgstr "Wymuś odświeżenie"
 
-#: extension.js:468
+#: extension.js:481
 msgid "Preferences"
 msgstr "Ustawienia"
 
-#: extension.js:492
+#: extension.js:505
 msgid "Background format not supported"
 msgstr "Niewspierany format tła"
 
-#: extension.js:493
+#: extension.js:506
 msgid "Auto Accent Colour will not run on this background"
 msgstr "Automatyczny kolor akcentu nie działa z tym tłem"
 
@@ -160,7 +160,8 @@ msgstr ""
 msgid ""
 "For creating the Quantize JavaScript module, used by ColorThief for colour "
 "quantization"
-msgstr "Za stworzenie modułu JavaScript Quantize, używanego przez ColorThief do "
+msgstr ""
+"Za stworzenie modułu JavaScript Quantize, używanego przez ColorThief do "
 "kwantyzacji kolorów"
 
 #: prefs.js:258
