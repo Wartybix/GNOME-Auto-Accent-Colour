@@ -310,9 +310,9 @@ export default class AutoAccentColourExtension extends Extension {
             new AccentColour('teal', 0, 255, 255, new HueRange(120, 240)),
             new AccentColour('green', 0, 191, 0, new HueRange(50, 180)),
             new AccentColour('yellow', 200, 150, 0, new HueRange(29, 64)),
-            new AccentColour('orange', 237, 91, 0, new HueRange(7, 64)),
-            new AccentColour('red', 230, 0, 26, new HueRange(300, 22)),
-            new AccentColour('pink', 213, 0, 103, new HueRange(240, 0)),
+            new AccentColour('orange', 237, 91, 0, new HueRange(9, 64)),
+            new AccentColour('red', 230, 0, 26, new HueRange(340, 9)),
+            new AccentColour('pink', 230, 138, 182, new HueRange(240, 8)),
             new AccentColour('purple', 145, 65, 172, new HueRange(240, 330)),
             new AccentColour('slate', 166, 166, 166, new HueRange(195, 300))
         ]
@@ -322,9 +322,9 @@ export default class AutoAccentColourExtension extends Extension {
             new AccentColour('teal', 0, 255, 255, new HueRange(120, 240)),
             new AccentColour('green', 0, 191, 0, new HueRange(50, 180)),
             new AccentColour('yellow', 200, 150, 0, new HueRange(29, 64)),
-            new AccentColour('orange', 237, 91, 0, new HueRange(7, 64)),
-            new AccentColour('red', 230, 0, 26, new HueRange(300, 22)),
-            new AccentColour('pink', 213, 0, 103, new HueRange(240, 0)),
+            new AccentColour('orange', 237, 91, 0, new HueRange(9, 64)),
+            new AccentColour('red', 230, 0, 26, new HueRange(340, 9)),
+            new AccentColour('pink', 230, 138, 182, new HueRange(240, 8)),
             new AccentColour('purple', 145, 65, 172, new HueRange(240, 330)),
             new AccentColour('slate', 166, 166, 166, new HueRange(50, 180))
         ]
