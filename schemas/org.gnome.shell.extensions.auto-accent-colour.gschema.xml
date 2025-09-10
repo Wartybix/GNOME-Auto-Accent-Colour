@@ -2,7 +2,7 @@
 <schemalist>
   <schema id="org.gnome.shell.extensions.auto-accent-colour" path="/org/gnome/shell/extensions/auto-accent-colour/">
     <key name="hide-indicator" type="b">
-      <default>false</default>
+      <default>true</default>
     </key>
     <key name="highlight-mode" type="b">
       <default>false</default>
