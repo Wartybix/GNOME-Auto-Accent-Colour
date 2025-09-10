@@ -2,7 +2,7 @@
 	"name": "Auto Accent Colour",
 	"description": "Automatically set the GNOME accent colour based on the user's background.\n\nNote: GNOME Settings sometimes has an issue of it 'resetting' the accent colour when the Appearance page is open and the accent colour is changed externally. If this happens, navigate away from the Appearance page (or close the Settings window), and re-run the Auto Accent Colour script by clicking the 'Force Refresh' indicator option, disabling/re-enabling the extension, or locking and unlocking your device.",
 	"uuid": "auto-accent-colour@Wartybix",
-	"shell-version": [ "47", "48" ],
+	"shell-version": [ "47", "48", "49" ],
 	"gettext-domain": "auto-accent-colour@Wartybix",
 	"settings-schema": "org.gnome.shell.extensions.auto-accent-colour",
 	"url": "https://github.com/Wartybix/GNOME-Auto-Accent-Colour/"
