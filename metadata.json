@@ -5,5 +5,8 @@
 	"shell-version": [ "47", "48", "49" ],
 	"gettext-domain": "auto-accent-colour@Wartybix",
 	"settings-schema": "org.gnome.shell.extensions.auto-accent-colour",
-	"url": "https://github.com/Wartybix/GNOME-Auto-Accent-Colour/"
+	"url": "https://github.com/Wartybix/GNOME-Auto-Accent-Colour/",
+	"donations": {
+	    "kofi": "wartybix"
+	}
 }
