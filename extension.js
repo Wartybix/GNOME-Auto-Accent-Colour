@@ -208,10 +208,19 @@ async function applyClosestAccent(
     const backgroundPath = backgroundFile.get_path()
     let bytes = null
     try {
-        bytes = backgroundFile.load_bytes(null)[0];
-    } catch(e) {
+        bytes = await new Promise((resolve, reject) => {
+            backgroundFile.load_bytes_async(null, (_backgroundFile, res) => {
+                try {
+                    resolve(backgroundFile.load_bytes_finish(res)[0])
+                } catch (e) {
+                    reject(e)
+                }
+            })
+        })
+    } catch (e) {
         journal(e, true)
         onIncompatibleImg()
+        return
     }
 
     const backgroundHash = bytes.hash();
