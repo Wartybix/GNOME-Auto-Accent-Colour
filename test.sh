@@ -2,4 +2,4 @@
 
 sh install.sh
 
-dbus-run-session -- gnome-shell --devkit
+dbus-run-session gnome-shell --devkit --wayland
