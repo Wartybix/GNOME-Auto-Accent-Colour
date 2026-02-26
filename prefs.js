@@ -249,9 +249,9 @@ for a given background is in the cache. Do not cache computed palettes."
         aboutPage.add(linksGroup)
 
         const repoBtn = new Gtk.LinkButton({
-            label: 'GitHub',
+            label: 'Codeberg',
             valign: Gtk.Align.CENTER,
-            uri: 'https://github.com/Wartybix/GNOME-Auto-Accent-Colour/'
+            uri: 'https://codeberg.org/Wartybix/GNOME-Auto-Accent-Colour/'
         })
 
         const repoRow = new Adw.ActionRow({
@@ -265,9 +265,9 @@ for a given background is in the cache. Do not cache computed palettes."
         repoRow.add_prefix(repoIcon)
 
         const issueBtn = new Gtk.LinkButton({
-            label: 'GitHub',
+            label: 'Codeberg',
             valign: Gtk.Align.CENTER,
-            uri: 'https://github.com/Wartybix/GNOME-Auto-Accent-Colour/issues'
+            uri: 'https://codeberg.org/Wartybix/GNOME-Auto-Accent-Colour/issues'
         })
 
         const issueRow = new Adw.ActionRow({
@@ -281,9 +281,9 @@ for a given background is in the cache. Do not cache computed palettes."
         issueRow.add_prefix(issueIcon)
 
         const contributorsBtn = new Gtk.LinkButton({
-            label: 'GitHub',
+            label: 'Codeberg',
             valign: Gtk.Align.CENTER,
-            uri: 'https://github.com/Wartybix/GNOME-Auto-Accent-Colour/graphs/contributors'
+            uri: 'https://codeberg.org/Wartybix/GNOME-Auto-Accent-Colour/activity/contributors'
         })
 
         const contributorsRow = new Adw.ActionRow({
@@ -307,9 +307,9 @@ for a given background is in the cache. Do not cache computed palettes."
         licensesRow.add_prefix(licenseIcon)
 
         const gplv3Btn = new Gtk.LinkButton({
-            label: 'GitHub',
+            label: 'Codeberg',
             valign: Gtk.Align.CENTER,
-            uri: 'https://github.com/Wartybix/GNOME-Auto-Accent-Colour/blob/main/LICENSE'
+            uri: 'https://codeberg.org/Wartybix/GNOME-Auto-Accent-Colour/src/branch/main/LICENSE'
         })
 
         const autoAccentColourRow = new Adw.ActionRow({

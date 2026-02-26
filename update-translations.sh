@@ -6,7 +6,7 @@
 POTFILE="po/auto-accent-colour@Wartybix.pot"
 
 # Check for new translatable strings
-xgettext --msgid-bugs-address="34974060+Wartybix@users.noreply.github.com" \
+xgettext --msgid-bugs-address="lauriet@gnome.org" \
          --from-code=UTF-8 \
          --add-comments="TRANSLATORS" \
          --output="$POTFILE" \

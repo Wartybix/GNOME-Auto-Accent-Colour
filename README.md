@@ -4,7 +4,7 @@ Automatically set the GNOME accent colour based on the user's background.
 ## Development
 Get the source:
 ```
-git clone https://github.com/Wartybix/GNOME-Auto-Accent-Colour
+git clone https://codeberg.org/Wartybix/GNOME-Auto-Accent-Colour/
 ```
 
 To install locally, run `install.sh`. For changes to apply, log out and back in again.
