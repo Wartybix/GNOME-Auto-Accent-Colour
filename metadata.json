@@ -2,7 +2,7 @@
 	"name": "Auto Accent Colour",
 	"description": "Automatically set GNOME's accent colour based on the wallpaper.",
 	"uuid": "auto-accent-colour@Wartybix",
-	"shell-version": [ "47", "48", "49" ],
+	"shell-version": [ "48", "49", "50" ],
 	"gettext-domain": "auto-accent-colour@Wartybix",
 	"settings-schema": "org.gnome.shell.extensions.auto-accent-colour",
 	"url": "https://codeberg.org/Wartybix/GNOME-Auto-Accent-Colour/",
